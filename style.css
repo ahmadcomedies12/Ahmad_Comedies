@@ -1,0 +1,52 @@
+li {
+    color: red;
+}
+
+body {
+    background-color: red; 
+}
+
+h1{
+    background-color: skyblue;
+}
+marquee{
+    background-color: blue; 
+}
+ul{
+    background-color: green;
+    text-align: left;
+}
+.section{
+    background-color: lightblue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 8px 12px;
+    text-align: center;
+
+}
+body{
+    background-color: gold;
+}
+.ahmad{
+    color: blue;
+    background-color: black;
+}
+H1{
+background-color: green;
+    text-align: center;
+}
+body{
+      font-family: "Bebas Neue", sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+      font-family: "Bebas Neue", sans-serif;
+}
+body{
+    background-color:rgb(46, 171, 8)11, 11, 218);
+} 
+vidos background color  
+{
+    background-color: rgba(9, 133, 155, 0.811);
+}
